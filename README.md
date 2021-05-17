@@ -1,2 +1,2 @@
 # Picture
-图片
+Hants的图床
